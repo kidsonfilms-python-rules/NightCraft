@@ -1,1 +1,1 @@
-# NightCraft
+# NightCraft Minecraft SMP website.
