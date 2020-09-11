@@ -2,26 +2,32 @@
 
 ## General Rules
 
-NO griefing or stealing from others
+1.NO griefing or stealing from others
 
-NO cyber bullying is allowed 
+2.NO cyber bullying is allowed 
 
-## Survival
 
- When you spawn in the SMP world you will have a map and a banner with an anvil, (Make sure to keep the map with at all times). With the map banner and anvil you will find a location on the map for your base to be located and use the banner and anvil to name your banner your minecraft usernames, from that all players will be able to find where your base location will be to often meet you there or to deal a trade
+## Spawn
 
-## Trading
+1. When you spawn in the survival wolrd u will have these items in your hot bar: banner, anvil, full sized map, some obsidain, and last flint and steel *NOTE* NOT ALOUD TO MAKE NETHER PORTAL UNTLL SEPTEMBER 22TH
 
-We will have trading on this SMP
+2. When you spwan you will have to explore to, find a location for your base once you find a loction use the banner and avil to name the banner you minecraft username and place down the banner where you will live.
 
-To trade you can either be lame and go to their base and trade, or make a shop in the admin chosen district called the shopping district
 
-When have ability to make nether portal we will have a nether hub with a nether portal linked up to the shopping district for easy access
 
-## Survival base
+## Economy
 
-For your survival base one of the admins called NightRider will choose a theme for your survival base etc. season 1 will be alien theme (of course you don't have to do it but it would be cool if you did)
+1. Our server is econmy based.
 
-Each season theme/build will be 4 months long
+2. You will have the ablitlty to tarde items with another players to get other items that you want,either for your base or for survival.
 
-**MAKE SURE TO READ THE WHOLE PAGE AND IF YOU HAVE ANY QUESTIONS WE WILL HAVE A MEETING AT SEPTEMBER 14 THERE YOU CAN ASK THE ADMINS ANY QUESTIONS**
+3. You will spawn with a the items to make an nether portal BUT YOU ARE NOT ALLOWED TO MAKE ONE UNTIL SEPTEMBER 22TH WHICH WILL BE THE OPENING OF THE SHOPPING/TRADNG DISTRICT 
+
+## Industrial District
+
+1. If you have an auto-redstone farm you would like to make you will have to let others use it as well. Your nether portal will also be linked up to the industrial district too.
+
+2. For nether farms like a gold farms will be up above the nether bedrock. You can start with nether farms at September 22th.
+
+
+
