@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(to right, rgb(48, 46, 46), black)
+}
+
+.sidebar {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidebar a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+
+.sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #111;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
+.openbtn:hover {
+  background-color: #444;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 96px;
+  font-size: 60px;
+  color: wheat;
+  float: left;
+
+}
+
+.about{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    padding: 70px 80px;
+    font-size: 30px;
+    
+}
+
+.rules{
+  float: right;
+  width: 50%;
+  padding: 70px 80px;
+  font-size: 30px;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pvp{
+  font-family: Arial, Helvetica, sans-serif;
+  float: left;
+  padding-left: 15px;
+}
+.ranks{
+  font-family: Arial, Helvetica, sans-serif;
+  float: left;
+  padding-left: 10px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidebar" class="sidebar">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+  <a href="#"></a>
+  <a href="#">Rules</a>
+  <a href="#">About</a>
+  <a href="https://discord.com/channels/764977410969567282/764977996503056385">Discord</a>
+</div>
+
+<div id="main">
+  <button class="openbtn" onclick="openNav()">☰</button>  
+  <h1>NightCraft</h1>
+  
+</div>
+
+<script>
+function openNav() {
+  document.getElementById("mySidebar").style.width = "250px";
+  document.getElementById("main").style.marginLeft = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidebar").style.width = "0";
+  document.getElementById("main").style.marginLeft= "0";
+}
+</script>
+
+<div class="about">
+    <p>
+        <h2><b>About us</b></h2><br>Welcome to <b>NightCraft<b> a small Minecraft SMP, with just less than 15 members. Our SMP is economy based which means that you will have the ability to trade with other members among playing, for specific items.
+        We will have areas for you to sell/ and keep your base in. Those are called warps.
+        <ul>
+            <li>1. /warp survival: takes you to survival world</li>
+            <li>2. /warp shopping: takes you to shopping </li>
+            <li>3. /warp portals: takes you to nether portal </li>
+            <li>4. /warp redstone: takes you to a world with redstone farms</li>
+        </ul>
+    </p>
+
+    <div class="rules">
+      <h2>Our Rules</h2>
+      <p>
+        Like most Minecraft servers we have rules.
+          <ul>
+            <li>1. Be PG friendly</li>
+            <li>2. No Stealing</li>
+            <li>3. No Griefing</li>
+            <li>4. No hacking ( using x-ray or gamemode )</li>
+            <li>5. No abusing ranks</li>
+            <li>6. Do not spam either in game chat or Discord</li>
+            <li>7. No racism, sexisim, etc.</li>
+          </ul>
+      </p>
+    </div>
+
+
+    <div class="pvp">
+      <h2>Tournaments</h2>
+      <p>Our server is not just survival... We will have fun PvP tournaments as well! In our Discord server one of our admins @lev is in charge of PvP Bedwars tournaments. He will anounce when we will have these tournaments and rules. </p>
+    </div>
+
+    <div class="ranks">
+
+      <h2>Ranks</h2>
+        <p><i>PLEASE DO NOTE YOU WILL NOT HAVE TO PAY ACTUAL MONEY FOR RANKS</i>
+        <UL>
+          <li>GOLD: acess to /home command</li>
+          <li>DIAMOND: acess to /home and /fly</li>
+          <li>EMARALD: acess to /home, /fly and tournament cosmetics</li>
+
+        </UL>
+        GOLD rank: 100 Diamond Blocks
+        DIAMOND rank: 170 Diamond Blocks
+        EMARALD rank: 250 Diamond Blocks
+
+        </p>
+    </div>
+
+    
+
+
+
+</body>
+</html> 

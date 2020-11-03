@@ -4154,7 +4154,7 @@ button.close {
     border: 1px solid #fff;
     border-radius: 10px;
     cursor: pointer;
-    background-color: #000\9;
+    background-color: #0009;
     background-color: transparent
 }
 
@@ -4895,6 +4895,30 @@ label {
 .list-icons li {
     float: left;
     margin-right: 5px
+}
+
+html {
+    --scrollbarBG: #303030;
+    --thumbBG: #494949;
+}
+
+body::-webkit-scrollbar {
+    width: 11px;
+}
+
+body {
+    scrollbar-width: thin;
+    scrollbar-color: var(--thumbBG) var(--scrollbarBG);
+}
+
+body::-webkit-scrollbar-track {
+    background: var(--scrollbarBG);
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: var(--thumbBG);
+    border-radius: 6px;
+    border: 3px solid var(--scrollbarBG);
 }
 
 /*# sourceMappingURL=main.0cf8b554.map*/

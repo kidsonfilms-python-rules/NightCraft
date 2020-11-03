@@ -4,24 +4,34 @@
 
 NO griefing or stealing from others
 
+BE PG friendly
+
 NO cyber bullying is allowed 
 
-## Survival
 
- When you spawn in the SMP world you will have a map and a banner with an anvil, (Make sure to keep the map with at all times). With the map banner and anvil you will find a location on the map for your base to be located and use the banner and anvil to name your banner your minecraft usernames, from that all players will be able to find where your base location will be to often meet you there or to deal a trade
+## Spawn
 
-## Trading
+When you spawner you will spawn in a place called the United Nations, this is where your base is going to be. We ask that you keep your base near the location you spawn
 
-We will have trading on this SMP
+## Guilds
 
-To trade you can either be lame and go to their base and trade, or make a shop in the admin chosen district called the shopping district
+We will have guilds or nations on the SMP. We have 2 guilds Rebel Guild, and the Sky Guild
 
-When have ability to make nether portal we will have a nether hub with a nether portal linked up to the shopping district for easy access
+Guilds is a team of people making farms, secret HQ's, and protecting each other in war. PvP is allowed but only when nescary, and only in Guilds. You can not PvP inside the UN borders or admins will report you to jail for 5 days. Which you can not break out of, and only be let free after your 5 day jail time. 
 
-## Survival base
+Wars you ask? Well admins will sometimes have some fun games such as head games and capture the flag. The winner guild of the games get prizes for everyone in the guild. You and your guild members shall protect each other in battle, and war.
 
-For your survival base one of the admins called NightRider will choose a theme for your survival base etc. season 1 will be alien theme (of course you don't have to do it but it would be cool if you did)
+To go to the guild regions of the United Nations go to the guild NPC at spawn and right-click it
 
-Each season theme/build will be 4 months long
+## Shopping
 
-**MAKE SURE TO READ THE WHOLE PAGE AND IF YOU HAVE ANY QUESTIONS WE WILL HAVE A MEETING AT SEPTEMBER 14 THERE YOU CAN ASK THE ADMINS ANY QUESTIONS**
+We will have a shopping district in our SMP to go to the shopping district go to the shopping NPC at hub and right-click it
+
+Stealing is prohibited, and do note there will be a watchdog API or staff always looking if your breaking rules
+
+
+
+
+
+
+
