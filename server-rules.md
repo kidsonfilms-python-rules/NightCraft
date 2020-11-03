@@ -4,30 +4,34 @@
 
 NO griefing or stealing from others
 
+BE PG friendly
+
 NO cyber bullying is allowed 
 
 
 ## Spawn
 
-When you spawn in the survival wolrd u will have these items in your hot bar: banner, anvil, full sized map, some obsidain, and last flint and steel *NOTE* NOT ALOUD TO MAKE NETHER PORTAL UNTLL SEPTEMBER 22TH
+When you spawner you will spawn in a place called the United Nations, this is where your base is going to be. We ask that you keep your base near the location you spawn
 
-When you spwan you will have to explore to, find a location for your base once you find a loction use the banner and avil to name the banner you minecraft username and place down the banner where you will live.
+## Guilds
+
+We will have guilds or nations on the SMP. We have 2 guilds Rebel Guild, and the Sky Guild
+
+Guilds is a team of people making farms, secret HQ's, and protecting each other in war. PvP is allowed but only when nescary, and only in Guilds. You can not PvP inside the UN borders or admins will report you to jail for 5 days. Which you can not break out of, and only be let free after your 5 day jail time. 
+
+Wars you ask? Well admins will sometimes have some fun games such as head games and capture the flag. The winner guild of the games get prizes for everyone in the guild. You and your guild members shall protect each other in battle, and war.
+
+To go to the guild regions of the United Nations go to the guild NPC at spawn and right-click it
+
+## Shopping
+
+We will have a shopping district in our SMP to go to the shopping district go to the shopping NPC at hub and right-click it
+
+Stealing is prohibited, and do note there will be a watchdog API or staff always looking if your breaking rules
 
 
 
-## Economy
 
-Our server is econmy based.
-
-You will have the ablitlty to tarde items with another players to get other items that you want,either for your base or for survival.
-
-You will spawn with a the items to make an nether portal BUT YOU ARE NOT ALLOWED TO MAKE ONE UNTIL SEPTEMBER 22TH WHICH WILL BE THE OPENING OF THE SHOPPING/TRADNG DISTRICT 
-
-## Industrial District
-
-If you have an auto-redstone farm you would like to make you will have to let others use it as well. Your nether portal will also be linked up to the industrial district too.
-
-For nether farms like a gold farms will be up above the nether bedrock. You can start with nether farms at September 22th.
 
 
 
